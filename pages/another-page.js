@@ -1,10 +1,10 @@
-import { Button } from "component-lib/Button";
+import { Button } from "../components/button";
 
 function AnotherPage() {
   return (
     <div>
       <h1>Another page</h1>
-      <Button>Another button instance</Button>
+      <Button>Another Button instance</Button>
     </div>
   );
 }

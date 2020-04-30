@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Button } from "component-lib/Button";
+import { Button } from "../components/button";
 import styles from "./homepage.module.css";
 
 function HomePage() {
